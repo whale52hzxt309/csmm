@@ -1,16 +1,11 @@
 {
-  "version": "1.1",
+  "version": "1.0",
   "notification": "Whale52Hz!-No Update",
   "update": [
-        {
-      "name": "QLTK",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/AUTO%20CSMM_Whale52Hz!.exe",
-      "path": ""
-    },
     {
-      "name": "GAME",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/Assembly-CSharp.dll",
-      "path": "CSMM_NRO_GAME_Data/Managed/"
-    },
+      "name": "",
+      "link": "",
+      "path": ""
+    }
   ]
 }
