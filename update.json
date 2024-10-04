@@ -1,26 +1,11 @@
 {
   "version": "1.0",
-  "notification": "Whale52Hz!",
+  "notification": "Whale52Hz!-No Update",
   "update": [
     {
-      "name": "File 1",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/user.json",
-      "path": "Info1\\"
-    },
-    {
-      "name": "File 2",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/user.json",
-      "path": "Info1\\Info2\\"
-    },
-    {
-      "name": "File 3",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/user.json",
-      "path": "Info1\\Info2\\Info3\\"
-    },
-    {
-      "name": "File 4",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/user.json",
-      "path": "Info1\\Info2\\Info3\\Info4\\"
-    },
+      "name": "",
+      "link": "",
+      "path": ""
+    }
   ]
 }
