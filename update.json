@@ -1,6 +1,6 @@
 {
-  "version": "1.1111",
-  "notification": "Thêm thông báo Telegram....",
+  "version": "1.2",
+  "notification": "Thêm checkbox",
   "update": [
     {
       "name": "QLTK",
