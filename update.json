@@ -1,16 +1,21 @@
 {
-  "version": "1.4",
-  "notification": "........",
+  "version": "1.5",
+  "notification": "Thêm máy chủ VIP 2",
   "update": [
     {
       "name": "QLTK",
       "link": "https://raw.githubusercontent.com/whale52hzxt309/csmm/refs/heads/main/AUTO_CSMM.exe",
       "path": ""
     },
-        {
+    {
       "name": "GAME",
       "link": "https://raw.githubusercontent.com/whale52hzxt309/csmm/refs/heads/main/Assembly-CSharp.dll",
       "path": "CSMM_NRO_GAME_Data\\Managed\\"
+    },
+    {
+      "name": "Server",
+      "link": "https://raw.githubusercontent.com/whale52hzxt309/csmm/refs/heads/main/server.txt",
+      "path": "Info\\"
     }
   ]
 }
